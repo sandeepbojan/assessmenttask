@@ -1,0 +1,72 @@
+Understanding the Business Requirements:
+
+Describe your business in a few sentences.
+Why do you need a website?
+Who is your target audience?
+Do you currently have a website? If so, what is/isn’t working for you?
+What are your goals for this project?
+Who is your target audience?
+
+Functionality :
+
+What specific features do you want on the site?
+What are the top features that will contribute to the website's success?
+How can we avoid failure?
+Who are your main competitors?
+What makes you different from your competitors?
+What’s the scope of the project?
+What’s the project timeline?
+Do you have a style guide or any existing images?
+How much traffic are you anticipating?
+What is the most important information your site must relay to the user, especially on the home page?
+Will multiple levels of access be required?
+When analyzing your competitors’ sites, what do you like and not like about their websites?
+What image, look, or feel do you want your brand’s website to portray?
+What will visitors accomplish on your website?
+How will you measure success?
+Which technologies you are planning to use on your FrontEnd and Backend?
+Which Database do you prefer to use? RDBMS or NoSQL?
+When are we launching the new site?
+Do you have multiple locations?
+
+Hosting : 
+
+Do you have a domain name and host?
+Do you have or need an SSL certificate?
+
+Project And Budget :
+
+What is your budget for this project?
+ What is your yearly budget for website improvements?
+ Who is responsible for reviewing and providing feedback on the site?
+ What is your desired kick-off date?
+ Who will give final approval for the site prior to launch?
+ Will you require training on how to properly maintain the site?
+ Who will be managing the site once it’s completed?
+
+Sales, Marketing, and Advertising :
+
+Do you have a documented content strategy?
+What types of marketing are you currently involved in or practice on a regular basis?
+What kind of ads will you be running? (Google, Facebook, native, display, search)
+ Do you have a current advertising budget?
+
+SEO:
+
+Do you need assistance with search engine optimization?
+ When was the last time you reviewed your website for optimization?
+Do you have someone who can review content for SEO best practices, internally?
+
+Reporting:
+
+What types of reports and data would you like to receive from our team?
+Do you prefer phone call reporting?
+ Do you like PDF’s?
+Would you like the reports to be converted into videos?
+
+Contact Page:
+
+ How do you want to collect customer information?
+Are you comfortable with having your phone number on your website?
+What is the email address you want on your website?
+
